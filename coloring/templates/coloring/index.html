@@ -69,17 +69,29 @@
 				var rect = new paper.Rectangle();
 				rect.size = new paper.Size(200,200);
 				rect.center = paper.view.center;
-
 				var rectPath = new paper.Path.Rectangle(rect);
 				rectPath.strokeColor = 'black';
 				rectPath.fillColor = 'purple';
+				
 				alert("adsf");
 				tool.onMouseDown = function (event) {
-
+					//record mouse start location
 				}
 
 				tool.onMouseUp = function (event) {
-					
+					//record mouse end location
+					//create path from start to end
+					//bring up the color history
+					//use the two to fill in the rectPath
+					/*
+					rectPath.fillColor = new paper.Color({
+						gradient: {
+							stops: ['yellow','blue']
+						}
+					});
+					*/
+					rectPath.fillColor = 'black';
+					alert("mouseup");
 				}
 			}
 
