@@ -57,9 +57,14 @@
 
 			// your rectangle gradient interaction goes in this function
 			// you may also add code outside of the function (e.g., global variables)
+			//TODO:
 			function myGradientInteraction(){
 				var tool = new paper.Tool();
-
+				//make stuff here
+				var myCircle = new paper.Path.Circle(new paper.Point(100,100),20);
+				myCircle.strokeColor = 'black';
+				myCircle.fillColor = 'purple';
+				alert("adsf");
 				tool.onMouseDown = function (event) {
 
 				}
@@ -71,6 +76,7 @@
 
 			// your custom interaction goes here!
 			// you may replace everything
+			//TODO:
 			function myCustomInteraction() {
 				var tool = new paper.Tool();
 
@@ -144,5 +150,6 @@
 
 	<canvas id="myCanvas" width="750px" height="750px"></canvas>
 	<div id="color-palette"></div>
+	
 </body>
 </html>
