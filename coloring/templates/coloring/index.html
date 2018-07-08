@@ -67,7 +67,7 @@
 				myCircle.fillColor = 'purple';
 				*/
 				var rect = new paper.Rectangle();
-				rect.size = new paper.Size(200,200);
+				rect.size = new paper.Size(500,500);
 				rect.center = paper.view.center;
 				var rectPath = new paper.Path.Rectangle(rect);
 				rectPath.strokeColor = 'black';
@@ -90,8 +90,19 @@
 						}
 					});
 					*/
-					rectPath.fillColor = 'black';
-					alert("mouseup");
+					rectPath.fillColor = 
+						
+						new paper.Color({
+							gradient: {
+								stops: [cp.history[cp.history.length-1],cp.history[cp.history.length-2]],
+								radial: true
+							},
+							origin: event.downPoint,
+							destination: event.upPoint
+						});
+						
+						//'green'
+					//alert("mouseup");
 				}
 			}
 
