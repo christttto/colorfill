@@ -60,12 +60,6 @@
 			//TODO:
 			function myGradientInteraction(){
 				var tool = new paper.Tool();
-				//make stuff here
-				/*
-				var myCircle = new paper.Path.Circle(paper.view.center,200);
-				myCircle.strokeColor = 'black';
-				myCircle.fillColor = 'purple';
-				*/
 				var rect = new paper.Rectangle();
 				rect.size = new paper.Size(500,500);
 				rect.center = paper.view.center;
@@ -73,25 +67,11 @@
 				rectPath.strokeColor = 'black';
 				rectPath.fillColor = 'purple';
 				
-				alert("adsf");
 				tool.onMouseDown = function (event) {
-					//record mouse start location
 				}
 
 				tool.onMouseUp = function (event) {
-					//record mouse end location
-					//create path from start to end
-					//bring up the color history
-					//use the two to fill in the rectPath
-					/*
-					rectPath.fillColor = new paper.Color({
-						gradient: {
-							stops: ['yellow','blue']
-						}
-					});
-					*/
 					rectPath.fillColor = 
-						
 						new paper.Color({
 							gradient: {
 								stops: [cp.history[cp.history.length-1],cp.history[cp.history.length-2]],
@@ -100,9 +80,6 @@
 							origin: event.downPoint,
 							destination: event.upPoint
 						});
-						
-						//'green'
-					//alert("mouseup");
 				}
 			}
 
@@ -111,12 +88,53 @@
 			//TODO:
 			function myCustomInteraction() {
 				var tool = new paper.Tool();
-
+				/*
+				//drawing curve
+				var sarPoint = new paper.Point(50,50);
+				var sarPoint2 = new paper.Point(250,150);
+				var sarPoint3 = new paper.Point(paper.view.center);
+				var myFirstArc = new paper.Path.Arc(sarPoint,sarPoint3,sarPoint2);
+				myFirstArc.strokeColor = 'green';
+				myFirstArc.strokeWidth = 40;
+				
+				var circPath = new paper.Path.Circle(paper.view.center, paper.view.bounds.height/3);
+				circPath.fillColor = 'skyblue';
+				var circPath = new paper.Path.Circle(paper.view.center, paper.view.bounds.height/5);
+				circPath.fillColor = 'pink';
+				*/
+				
+				
+				var centerX = paper.view.center.x;
+				var centerY = paper.view.center.y;
+				
+				var p1 = new paper.Point(centerX*2,centerY/2);
+				var p2 = new paper.Point(centerX*2-centerY/2,centerY);
+				var p3 = new paper.Point(centerX*2,centerY+centerY/2);
+				var spectrum = new paper.Path.Arc(p1,p2,p3);
+				spectrum.closed = true;
+				spectrum.fillColor = 'skyblue';
+				
+				var p4 = new paper.Point(centerX*2,centerY-centerY/3);
+				var p5 = new paper.Point(centerX*2-centerY/3,centerY);
+				var p6 = new paper.Point(centerX*2,centerY+centerY/3);
+				var brightness = new paper.Path.Arc(p4,p5,p6);
+				brightness.closed = true;
+				brightness.fillColor = 'pink';
+				
+				var p7 = new paper.Point(centerX*2,centerY-centerY/6);
+				var p8 = new paper.Point(centerX*2-centerY/6,centerY);
+				var p9 = new paper.Point(centerX*2,centerY+centerY/6);
+				var currentColor = new paper.Path.Arc(p7,p8,p9);
+				currentColor.closed = true;
+				currentColor.fillColor = 'lightgreen';
+				
 				tool.onMouseDown = function (event) {
-				    var hit = mandala.item.hitTest(event.point, { tolerance: 10, fill: true });
-				    if (hit) {
-				        hit.item.fillColor = cp.history[cp.history.length - 1];
-				    }
+					var hit = mandala.item.hitTest(event.point, { tolerance: 10, fill: true });
+					if (hit) {
+						//changing color
+						hit.item.fillColor = cp.history[cp.history.length - 1];
+					}
+					
 				}
 			}
 
