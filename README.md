@@ -70,7 +70,7 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 
 ### High-fidelity Prototype
 
-<a href="https://www.youtube.com/watch?v=EOoqfSgzoB0&feature=youtu.be" target="_blank"><img src="Paper-Prototype-Final.jpg" width=70% /></a>
+<a href="https://www.youtube.com/watch?v=EOoqfSgzoB0&feature=youtu.be" target="_blank"><img src="Paper-Prototype-Final.jpg" width=50% /></a>
 <div align="center">**Click the image above**</div>  
 
   * The video demonstrates UX flow of the application, when the user opens the application for the first time, hence the pop-ups.
@@ -78,7 +78,7 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 
 ### Core Feature Demonstration
 
-<a href="https://www.youtube.com/watch?v=OIWZQniDIM0&feature=youtu.be" target="_blank"><img src="Colorfill.png" width="70%" /></a>
+<a href="https://www.youtube.com/watch?v=OIWZQniDIM0&feature=youtu.be" target="_blank"><img src="Colorfill.png" width=50% /></a>
 <div align="center">**Click the image above**</div>  
 
   * This screen recording demonstrates how color wheel, the core feature of this application, works. The user fills in the spaces of empty template while choosing color.
