@@ -70,7 +70,7 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 
 ### High-fidelity Prototype
 
-<a href="https://www.youtube.com/watch?v=EOoqfSgzoB0&feature=youtu.be" target="_blank"><img src="Paper-Prototype-Final.jpg"/></a>
+<a href="https://www.youtube.com/watch?v=EOoqfSgzoB0&feature=youtu.be" target="_blank"><img src="Paper-Prototype-Final.jpg" border="2px" /></a>
 <div align="center">**Click the image below**</div>
   * The video demonstrates UX flow of the application, when the user opens the application for the first time, hence the pop-ups.
 
