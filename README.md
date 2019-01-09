@@ -1,34 +1,24 @@
 # UIUX Project: Colorfill
 <!--finished product design-->
-![Screenshot](Geo-Weather.png)
+![Screenshot](Colorfill.png)
   
-Weather application with minimal design. Geo-weather compares weather
-of several locations in one screen, while taking time into consideration. The time bar at the
-bottom allows maneuvering in time period to see weather change of all locations.
-Application also provides information on extreme weather in a pop-up form, and can revisit
-the alarms even after dismissing it.
+The core feature of Colorfill allows user to have refined selection of color through optional secondary spectrum generated based on the initial choice of color. When color is chosen from the outer color spectrum, the inner circle gets filled with gradation generated based on the initial selection. If the user wants to use darker version of the initial color selection, any part of the second circle can be selected for color choice.
 
-## Design Brief (The Need)
-You’ve been hired by an travel company (CANOE) to create a mobile weather application specifically suited for travellers. In advance, the company has determined the relevant situations, tasks and users (STUs). You will engage in an iterative design process to create an application that supports these situations and tasks for one of the two candidate users.
 
-* **Situations**
-  1. In the morning, a user considers the weather forecast to prepare for their outing and decide where to go that day.
-  2. While on an outing, the user considers the weather forecast (e.g., when they see clouds on the horizon) to decide where to head next. Because of weather, they may choose to head back to where they are staying, or head to another destination.
-  3. While viewing the app, an extreme weather event occurs that might impact the user’s travel plans.
-  
-* **Tasks**
-  1. A user queries for the weather forecast for a single location (e.g., their destination). The weather forecast will show the current weather, and the hourly forecast in the given location.
-  2. The user compares the weather forecast for several locations at a specific time.
-  3. The application notifies the user of an extreme weather alert, and the user reads the alert. 
-  
-* **Users**
-  1. A storm chaser looking to document the most extreme weather. Storm chasers typically try to move quickly from location to location. The chasers prefer efficient and precise apps where the visual design feels extreme.
    
    
-   
-   
-   
-## Cycle I: Investigation and Ideation  
+## Cycle I: Investigation and Ideation
+
+### Summary of Obeservational Study
+  Our observational study of normal coloring interaction were performed by our two users who both regularly enjoy coloring books but had their first time using coloring apps. In the process, we found out the user wants to pick out color very carefully and be not interfered when the coloring process happens. Following this insightful contribution, we ideated our own coloring application that can compete against actual sketchbook and coloring pencils.
+### Protocol Summary
+  After introducing ourselves and briefly getting to know our users, we explained them about our project. W​ithout any kind of regulation, ​we had our users ​feel free to choose any image they would like to color in any way they want to. We a​sked them to try exploring how to use the app them​selves and comment out loud on any kind of thoughts they come up with.
+### Themes
+  **Synethesis Theme**
+  * Let users know about the zoom in feature: Both users found themselves desperate at attempting to color somall detailed parts until they realized they could zoom in.
+  * Confusing icons: the icons in the application seemed to be unclear. Users either made mistakes or were not aware of what exactly some icons represented.
+
+
 ### Investigation: Mood Board
   
 The user “storm chaser” moves from different locations very fast. The storm chaser can be best described as extreme. The mood board consists of extreme contrast or action with little complication.
