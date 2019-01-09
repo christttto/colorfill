@@ -51,7 +51,7 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 
 ### Paper Prototyping for Wizard of Oz Session
 <!--image of prototype-->
-<div align="center"><img src="Paper-Prototype.jpg" width=80%></div>  
+<div align="center"><img src="Paper-Prototype-Draft.jpg" width=80%></div>  
 
 #### Description
   * Colorfill now features color queue to both save selected colors and display which color is now active. The Indicator for texture is also added to further explain which type of texture is currently active.
@@ -66,13 +66,17 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 
 
 
-## Cycle III: High-fidelity Prototype & Demonstration
+## Cycle III: High-fidelity Prototype & Core Feature Demonstration
 
+### High-fidelity Prototype
 
+<div align="center">**Click the image below**</div>
+<a href="https://www.youtube.com/watch?v=EOoqfSgzoB0&feature=youtu.be" target="_blank"><img src="Paper-Prototype-Final.jpg" width=70%/></a> 
 
+### Core Feature Demonstration
 
-
-
+<div align="center">**Click the image below**</div>
+<a href="https://www.youtube.com/watch?v=OIWZQniDIM0&feature=youtu.be" target="_blank"><img src="Colorfill.jpg" width=80%/></a>
 
 
 
