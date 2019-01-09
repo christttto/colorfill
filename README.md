@@ -18,15 +18,16 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 ### Summary of Obeservational Study
   Our observational study of normal coloring interaction were performed by our two users who both regularly enjoy coloring books but had their first time using coloring apps. In the process, we found out the user wants to pick out color very carefully and be not interfered when the coloring process happens. Following this insightful contribution, we ideated our own coloring application that can compete against actual sketchbook and coloring pencils.
 
-### Protocol Summary
+#### Protocol Summary
   After introducing ourselves and briefly getting to know our users, we explained them about our project. W​ithout any kind of regulation, ​we had our users ​feel free to choose any image they would like to color in any way they want to. We a​sked them to try exploring how to use the app them​selves and comment out loud on any kind of thoughts they come up with.
 
-#### Themes
-  **Synethesis Theme**
-  * Let users know about the zoom in feature: Both users found themselves desperate at attempting to color somall detailed parts until they realized they could zoom in.
-  * Confusing icons: the icons in the application seemed to be unclear. Users either made mistakes or were not aware of what exactly some icons represented.
+##### Themes
+| Theme | Observational Notes | Evidentiary quotes |
+|:-----------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Let users know about the zoom in feature. | Both users found themselves desperate at attempting to color small detailed parts until they realized they could zoom in. | User 1: “I wanna color each hair in different color . Can I zoom in?” User 2: “What the. I didn’t know I could zoom in.” |
+| Confusing Icons | The icons in the app seem to be not clear for its function. Users either made mistakes or were not aware of what exactly some icons represented. | User 1: “There is this plain palette icon at the very very bottom that I just saw LOL it just looked like the app icon so didn't even know there were other color options LOL.” User 2: “At the top of the screen there are all arrows. I accidentally exited the coloring page as I was trying to find which one was the 'undo' option - why not just the typical eraser icon to be more straightforward.” |
   
-### Sketches
+### Ideation: Interaction Sketches 
 <!--six sketches-->
 
 
@@ -41,37 +42,65 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 | <div align="center"><img src="Refined-Sketches-Clear-Icons.jpeg" width=80%></div> |  <div align="center"><img src="Refined-Sketches-Simple-is-best.jpeg" width=80%></div> |
 | The application is intended for simplistic use for younger users, hence such minimal and approachable layout. The selection of tool at the top right corner will let user to choose the texture of filling in. The selected tool will be enlarged to show that it has been chosen. The palette below shows colors allowed to use for this picture, making the process lot easier. Icons are very clear at representing their functionalities. | This application allows user to be minimalistic to extreme point, to leave as much room for user to think and decide for himself. The only feature is color spectrum bar, which can be moved up and down to choose from spectrum that includes black and white. The whole bar can also be swiped to be hidden. |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Ideation: Interaction Sketches  
-<!--six different ui design-->
-
-
 ## Cycle II: Low-fidelity Prototype
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Cycle III: High-fidelity Prototype & Demonstration
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Reflection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
