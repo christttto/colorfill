@@ -77,9 +77,10 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 
 
 ### Core Feature Demonstration
-
-<a href="https://www.youtube.com/watch?v=OIWZQniDIM0&feature=youtu.be" target="_blank"><img src="Colorfill.png" width=50% /></a>
-<div align="center">**Click the image above**</div>  
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=OIWZQniDIM0&feature=youtu.be" target="_blank"><img src="Colorfill.png" width=50% /></a></br>
+  Click the image above
+</div>  
 
   * This screen recording demonstrates how color wheel, the core feature of this application, works. The user fills in the spaces of empty template while choosing color.
 
