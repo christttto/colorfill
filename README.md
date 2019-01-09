@@ -16,10 +16,10 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 
 
 ### Summary of Obeservational Study
-  Our observational study of normal coloring interaction were performed by our two users who both regularly enjoy coloring books but had their first time using coloring apps. In the process, we found out the user wants to pick out color very carefully and be not interfered when the coloring process happens. Following this insightful contribution, we ideated our own coloring application that can compete against actual sketchbook and coloring pencils.
+  * Our observational study of normal coloring interaction were performed by our two users who both regularly enjoy coloring books but had their first time using coloring apps. In the process, we found out the user wants to pick out color very carefully and be not interfered when the coloring process happens. Following this insightful contribution, we ideated our own coloring application that can compete against actual sketchbook and coloring pencils.
 
 #### Protocol Summary
-  After introducing ourselves and briefly getting to know our users, we explained them about our project. W​ithout any kind of regulation, ​we had our users ​feel free to choose any image they would like to color in any way they want to. We a​sked them to try exploring how to use the app them​selves and comment out loud on any kind of thoughts they come up with.
+  * After introducing ourselves and briefly getting to know our users, we explained them about our project. W​ithout any kind of regulation, ​we had our users ​feel free to choose any image they would like to color in any way they want to. We a​sked them to try exploring how to use the app them​selves and comment out loud on any kind of thoughts they come up with.
 
 ##### Themes
 | **Theme** | **Observational Notes** | **Evidentiary quotes** |
