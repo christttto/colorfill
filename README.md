@@ -22,8 +22,8 @@ Initial hierarchical task analysis was made to map out the conventional user flo
   After introducing ourselves and briefly getting to know our users, we explained them about our project. W​ithout any kind of regulation, ​we had our users ​feel free to choose any image they would like to color in any way they want to. We a​sked them to try exploring how to use the app them​selves and comment out loud on any kind of thoughts they come up with.
 
 ##### Themes
-| Theme | Observational Notes | Evidentiary quotes |
-|:-----------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Theme** | **Observational Notes** | **Evidentiary quotes** |
+| ---------------------- | --------------------- | --------------------- |
 | Let users know about the zoom in feature. | Both users found themselves desperate at attempting to color small detailed parts until they realized they could zoom in. | User 1: “I wanna color each hair in different color . Can I zoom in?” User 2: “What the. I didn’t know I could zoom in.” |
 | Confusing Icons | The icons in the app seem to be not clear for its function. Users either made mistakes or were not aware of what exactly some icons represented. | User 1: “There is this plain palette icon at the very very bottom that I just saw LOL it just looked like the app icon so didn't even know there were other color options LOL.” User 2: “At the top of the screen there are all arrows. I accidentally exited the coloring page as I was trying to find which one was the 'undo' option - why not just the typical eraser icon to be more straightforward.” |
   
