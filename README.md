@@ -71,7 +71,7 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 ### High-fidelity Prototype
 
 <div align="center">**Click the image below**</div>
-<a href="https://www.youtube.com/watch?v=EOoqfSgzoB0&feature=youtu.be" target="_blank"><img src="Paper-Prototype-Final.jpg"/></a>
+<a href="https://www.youtube.com/watch?v=EOoqfSgzoB0&feature=youtu.be" target="_blank"><img src="Paper-Prototype-Final.jpg" width=80% /></a>
 
 ### Core Feature Demonstration
 
