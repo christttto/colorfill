@@ -69,9 +69,10 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 ## Cycle III: High-fidelity Prototype & Core Feature Demonstration
 
 ### High-fidelity Prototype
-
-<a href="https://www.youtube.com/watch?v=EOoqfSgzoB0&feature=youtu.be" target="_blank"><img src="Paper-Prototype-Final.jpg" width=50% /></a>
-<div align="center">**Click the image above**</div>  
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=EOoqfSgzoB0&feature=youtu.be" target="_blank"><img src="Paper-Prototype-Final.jpg" width=50% /></a>
+  Click the image above
+</div>  
 
   * The video demonstrates UX flow of the application, when the user opens the application for the first time, hence the pop-ups.
 
