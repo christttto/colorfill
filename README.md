@@ -70,30 +70,16 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 
 ### High-fidelity Prototype
 
+<a href="https://www.youtube.com/watch?v=EOoqfSgzoB0&feature=youtu.be" target="_blank"><img src="Paper-Prototype-Final.jpg"/></a>
 <div align="center">**Click the image below**</div>
-<a href="https://www.youtube.com/watch?v=EOoqfSgzoB0&feature=youtu.be" target="_blank"><img src="Paper-Prototype-Final.jpg" width=80% /></a>
+  * The video demonstrates UX flow of the application, when the user opens the application for the first time, hence the pop-ups.
+
 
 ### Core Feature Demonstration
 
-<div align="center">**Click the image below**</div>
 <a href="https://www.youtube.com/watch?v=OIWZQniDIM0&feature=youtu.be" target="_blank"><img src="Colorfill.png"/></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Reflection
-
-
-
+<div align="center">**Click the image below**</div>
+  * This screen recording demonstrates how color wheel, the core feature of this application, works. The user fills in the spaces of empty template while choosing color.
 
 
 
