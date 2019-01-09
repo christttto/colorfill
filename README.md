@@ -5,7 +5,7 @@
 
 A coloring application. The core feature of Colorfill allows user to have refined selection of color through optional secondary spectrum generated based on the initial choice of color. When color is chosen from the outer color spectrum, the inner circle gets filled with gradation generated based on the initial selection. If the user wants to use darker version of the initial color selection, any part of the second circle can be selected for color choice.
   
-Several different approachs to prototyping and designing principles, such as hierarchical task analysis and observational study, were used in this project to understand different approaches we can take as UI/UX developers.
+Several different approachs to prototyping and designing principles, such as hierarchical task analysis, observational study and Wizard of Oz technique, were used in this project to understand different approaches we can take as UI/UX developers.
    
    
 ## Cycle I: Investigation and Ideation
@@ -43,35 +43,25 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 
 
 
-
-
-| **1.Geo-weather Forecast** | **2. Mix-Match Forecast** |
-| ---------------------- | --------------------- |
-| <div align="center"><img src="Initial-Interaction-Sketches-Geo-Weather-Forecast.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Mix-Match_forecast.png" width=50%></div> |
-| This application incorporates geographic representation of locations the user would be interested to visualize. The meter at the bottom represents time period you want to search, and the labels for each location will show the weather at that time. | Like any conventional weather application, this application can represent weather for each day. However, the user can swipe each date to display wanted locations for that date.                                                                           |
-| **3. Weather Calendar**    | **4. Excelling Weather**  |
-| <div align="center"><img src="Initial-Interaction-Sketches-Weather-Calendar.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Excelling-Weather.png" width=50%></div> |
-| This application can show calendar filled with minimal weather information. For each day, you can choose which location’s weather you want to display. | Spreadsheet-like display of simple weather for each location, for each day. User can select which day and location to highlight to mark which place will have desired weather. |
-| **5. Weather Where** | **6. Weather Calendar** |
-| <div align="center"><img src="Initial-Interaction-Sketches-Weather-Where.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Weather-Calendar2.png" width=50%></div> |
-| The upper half of the display can be scrolled to show consecutive days, and for each day the user can choose which location to show. Right now, 6/13 is selected and user is in process to choose which location to display. | The user can choose specific day on calendar. When chosen, list of considered location will pop out for user to decide which location’s weather will be shown on the calendar for that day. |
-
 ## Cycle II: Low-fidelity Prototype
 
+### Summary of Changes and Insights
+  Our observational study of normal coloring interaction were performed by our two users who both regularly enjoy coloring books but had their first time using coloring apps. In the process, we found out the user wants to pick out color very carefully and be not interfered when the coloring process happens. Following this insightful contribution, we ideated our own coloring application that can compete against actual sketchbook and coloring pencils.
+  Colorfill, our coloring application, focuses on a minimal display of features and tools to provide direct interaction between the template and users. The screen concentrates on simulating a coloring book page by only displaying the drawing itself in the artboard and having the tool box in a “show and hide” arrangement. Users can color the design by simply tapping and zooming-in to color sections easily. Such facilities serve to avoid unnecessary stress for mistakenly coloring outside border lines. Our playful side of the design comes with a coloring wheel that gives users access to a wide range of color selection. It allows users to personalize their own color palettes for a more realistic coloring experience. Additionally, it has a fill in feature of patterns users can choose to add depth and detail to their coloring design.
 
+### Paper Prototyping for Wizard of Oz Session
+<!--image of prototype-->
+<div align="center"><img src="Paper-Prototype.jpg" width=80%></div>  
 
+#### Description
+  Colorfill now features color queue to both save selected colors and display which color is now active. The Indicator for texture is also added to further explain which type of texture is currently active.
 
+### Modifications and Feedbacks from Wizard of Oz Session
 
-
-
-
-
-
-
-
-
-
-
+  1. Because our screen only displays the design to color at the beginning of the session, A pop-up message shows at the beginning of the session to indicate where tools are and how each can be utilized.
+  2. Current color can now be displayed at user’s will to know which color can be chosen from color queue.
+  3. User can pick out multiple colors out of color wheel and save favorite colors in color queue.
+  4. Splatter now shows what each section of the color wheel represents.
 
 
 
