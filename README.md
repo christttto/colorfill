@@ -54,7 +54,7 @@ Initial hierarchical task analysis was made to map out the conventional user flo
 <div align="center"><img src="Paper-Prototype.jpg" width=80%></div>  
 
 #### Description
-  Colorfill now features color queue to both save selected colors and display which color is now active. The Indicator for texture is also added to further explain which type of texture is currently active.
+  * Colorfill now features color queue to both save selected colors and display which color is now active. The Indicator for texture is also added to further explain which type of texture is currently active.
 
 ### Modifications and Feedbacks from Wizard of Oz Session
 
