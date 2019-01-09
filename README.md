@@ -29,18 +29,32 @@ Initial hierarchical task analysis was made to map out the conventional user flo
   
 ### Ideation: Interaction Sketches 
 <!--six sketches-->
-<div style="text-align: center">
 
 | **1.Colorfill** | **2. Omnicolor** |
 | ---------------------- | --------------------- |
 | <div align="center"><img src="Refined-Sketches-Colorfill.jpeg" width=80%></div> |  <div align="center"><img src="Refined-Sketches-Omnicolor.jpeg" width=80%></div> |
 | The color selection feature shows up when the right edge of the screen gets swiped, and the donut shaped spectrum can be changed to find the color. The margin will show gradation of similar tone colors of the chosen color for user to select as well. The bottom can be swiped to show editorial features and menu of the application. | ​Omni color shows three bars for the color filling process. First two will be for color selection, while the third one will feature all the editorial features and setup. All the functions are on left side to free the right hand solely for art. However, the bar can be moved right for left handed feature.                                                                           |
-| <div style="text-align: center">**3. Color Spontaneous**</div> | <div style="text-align: center">**4. Colorin**</div>  |
+| **3. Color Spontaneous** | **4. Colorin**  |
 | <div align="center"><img src="Refined-Sketches-Color-Spontenous.jpeg" width=80%></div> |  <div align="center"><img src="Refined-Sketches-Colorin.jpeg" width=80%></div> |
 | The application allows very limited experience for choosing color to the user to encourage creativity coming from randomness. When the block bottom gets held down, the whole box will constantly change color according to spectrum. When hand gets removed, the box will show one color, and until the box gets held down again, the user can use that color only, without going back. This forces user to be creative with color used, making the experience unconventional. | The buttons on the right minimize interference of tools with painting process. When each button gets clicked, it expands to show further options to the user, while making other features small to show as much painting possible. |
-| <div style="text-align: center">**5. Clear Icons**</div> | <div style="text-align: center">**6. Simple Is Best**</div> |
+| **5. Clear Icons** | **6. Simple Is Best** |
 | <div align="center"><img src="Refined-Sketches-Clear-Icons.jpeg" width=80%></div> |  <div align="center"><img src="Refined-Sketches-Simple-is-best.jpeg" width=80%></div> |
 | The application is intended for simplistic use for younger users, hence such minimal and approachable layout. The selection of tool at the top right corner will let user to choose the texture of filling in. The selected tool will be enlarged to show that it has been chosen. The palette below shows colors allowed to use for this picture, making the process lot easier. Icons are very clear at representing their functionalities. | This application allows user to be minimalistic to extreme point, to leave as much room for user to think and decide for himself. The only feature is color spectrum bar, which can be moved up and down to choose from spectrum that includes black and white. The whole bar can also be swiped to be hidden. |
+
+
+
+
+
+| **1.Geo-weather Forecast** | **2. Mix-Match Forecast** |
+| ---------------------- | --------------------- |
+| <div align="center"><img src="Initial-Interaction-Sketches-Geo-Weather-Forecast.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Mix-Match_forecast.png" width=50%></div> |
+| This application incorporates geographic representation of locations the user would be interested to visualize. The meter at the bottom represents time period you want to search, and the labels for each location will show the weather at that time. | Like any conventional weather application, this application can represent weather for each day. However, the user can swipe each date to display wanted locations for that date.                                                                           |
+| **3. Weather Calendar**    | **4. Excelling Weather**  |
+| <div align="center"><img src="Initial-Interaction-Sketches-Weather-Calendar.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Excelling-Weather.png" width=50%></div> |
+| This application can show calendar filled with minimal weather information. For each day, you can choose which location’s weather you want to display. | Spreadsheet-like display of simple weather for each location, for each day. User can select which day and location to highlight to mark which place will have desired weather. |
+| **5. Weather Where** | **6. Weather Calendar** |
+| <div align="center"><img src="Initial-Interaction-Sketches-Weather-Where.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Weather-Calendar2.png" width=50%></div> |
+| The upper half of the display can be scrolled to show consecutive days, and for each day the user can choose which location to show. Right now, 6/13 is selected and user is in process to choose which location to display. | The user can choose specific day on calendar. When chosen, list of considered location will pop out for user to decide which location’s weather will be shown on the calendar for that day. |
 
 ## Cycle II: Low-fidelity Prototype
 
